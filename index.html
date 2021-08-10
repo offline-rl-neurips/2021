@@ -9,25 +9,25 @@ layout: default
 
 <div class="row">
 
-
-<p>The remarkable success of deep learning has been driven by the availability of large and diverse datasets such as ImageNet. In contrast, the common paradigm in reinforcement learning (RL) assumes that an agent frequently interacts with the environment and learns using its own collected experience. This mode of operation is prohibitive for many complex real-world problems, where repeatedly collecting diverse data is expensive (<span><em>e.g.,</em></span> robotics or educational agents) and/or potentially unsafe (<span><em>e.g.,</em></span> healthcare).</p>
-<p>Alternatively, <em>Offline RL</em> focuses on training agents with logged data with no further environment interaction. Offline RL promises to bring forward a data-driven RL paradigm and carries the potential to scale up end-to-end learning approaches to real-world decision making tasks such as robotics, recommendation systems, dialogue generation, autonomous driving, healthcare systems and safety-critical applications. Recently, successful deep RL algorithms have been adapted to the offline RL setting and demonstrated a potential for success in a number of domains, however, significant algorithmic and practical challenges remain to be addressed. Within the past two years, performance on simple benchmarks has rapidly risen, so the community has also started developing standardized benchmarks (<a href="https://deepmind.com/research/open-source/RL-Unplugged-An-Offline-RL-Benchmark-Suite">RLUnplugged</a>, <a href="https://sites.google.com/view/d4rl/home">D4RL</a>) specifically designed to stress-test offline RL algorithms. 
-<!-- However, these are only initial proposals that could benefit from community input on design and evaluation protocol.</p> -->
-
-<p><strong>Goal of the workshop</strong>: Our goal is to bring attention to offline RL, both from within and from outside the RL community (e.g., causal inference, optimization, self-supervised learning), discuss algorithmic challenges that need to be addressed, discuss potential real-world applications, discuss limitations and challenges, and come up with concrete problem statements and evaluation protocols, inspired from real-world applications, for the research community to work on. In particular, we are interested in bringing together researchers and practitioners to discuss questions on theoretical, empirical, and practical aspects of offline RL, including but not limited to,</p>
-<ul>
-<li>Algorithmic decisions and associated challenges in training RL agents offline</li>
-<li>Properties of supervision needed to guarantee the success of offline RL methods</li>
-<li>Relationship with learning under uncertainty: Bayesian inference and causal inference</li>
-<li>Model selection, off-policy evaluation and theoretical limitations</li>
-<li>Relationship and integration with the conventional online RL paradigms</li>
-<li>Evaluation protocols and frameworks and real-world datasets and benchmarks</li>
-<li>Connections to transfer learning, self-supervised learning and generative modelling</li>
-</ul>
+<p>
+Offline reinforcement learning (RL) is a re-emerging area of study that aims to learn behaviors using only logged data, such as data from previous experiments or human demonstrations, without further environment interaction. It has the potential to make tremendous progress in a number of real-world decision-making problems where active data collection is expensive (<span><em>e.g.,</em></span> in robotics, drug discovery, dialogue generation, recommendation systems) or unsafe/dangerous (<span><em>e.g.,</em></span> healthcare, autonomous driving, or education). Such a paradigm promises to resolve a key challenge to bringing reinforcement learning algorithms out of constrained lab settings to the real world. 
 </p>
+
+<p>
+The <a href=https://offline-rl-neurips.github.io/2020/> first offline RL workshop</a>, held at NeurIPS 2020, focused on and led to algorithmic development in offline RL and garnered wide attention. This year, we propose to shift the focus from algorithm design to <b>bridging the gap between offline RL research and real-world offline RL</b>. Our aim is to create a space for discussion between researchers and practitioners on topics of importance for enabling offline RL methods in the real-world. We will encourage discussions and contributions around (but not limited to) the following topics that are important in the context of enabling real-world applications of offline RL methods:
+</p>
+<ul>
+<li>Offline RL using datasets unrelated or loosely-related to the task of interest </li>
+<li>Real-world domains and benchmarks for offline RL</li>
+<li>Cross-validation, model selection and hyperparameter tuning in offline settings</li>
+<li>Accelerating lifelong and continual learning via offline RL</li>
+<li>Novel application domains for offline RL, <span><em>e.g.,</em></span> black-box optimization. </li>
+<li>Beyond pessimistic offline RL algorithms: generalization and uncertainty quantification</li>
+<li>Optimization, stability and learning dynamics of offline RL algorithms</li>
+</ul>
 </div>
 
-<div id="PC" class="row">
+<!-- <div id="PC" class="row">
 <h3>Program Committee</h3>
 <div class="break"></div>
 	<ul style="width:25%; float:left; display: inline; ">
@@ -81,7 +81,7 @@ layout: default
 		<li>Yi Su</li>
 		<li>Ziyu Wang </li>
 	</ul>
-</div>
+</div> -->
 
 <div id="organizers" class="row">
 <h2 style="float:left;">Organizers</h2>
