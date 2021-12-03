@@ -9,7 +9,7 @@
     url: 
   - authors: Ajay Mandlekar, Danfei Xu, Josiah Wong, Soroush Nasiriany, Chen Wang, Rohun Kulkarni, Li Fei-Fei, Silvio Savarese, Yuke Zhu, Roberto Martín-Martín
     id: 5
-    kind: poster
+    kind: oral
     supplement: false
     title: 'What Matters in Learning from Offline Human Demonstrations for Robot Manipulation'
     url: https://youtu.be/dBcgEa3FpaA
@@ -27,7 +27,7 @@
     url: https://www.youtube.com/watch?v=NcOqY5djZ3s
   - authors: Luckeciano Melo*, Luana Martins*, Bryan Oliveira*, Bruno Brandao*, Douglas Soares, Telma Lima
     id: 9
-    kind: poster
+    kind: oral
     supplement: false
     title: 'PulseRL: Enabling Offline Reinforcement Learning for Digital Marketing Systems via Conservative Q-Learning'
     url: https://recorder-v3.slideslive.com/?share=55195&s=31ee83a3-6e6f-4c23-ae2d-512b7d08350f
@@ -141,7 +141,7 @@
     url: https://drive.google.com/file/d/14GE4nXHp1fK4iThBx-p0Kfc2UqTSp_uu/view?usp=sharing
   - authors: Gokul Swamy, Sanjiban Choudhury, Drew Bagnell, Steven Wu
     id: 31
-    kind: poster
+    kind: oral
     supplement: false
     title: 'What Would the Expert do()?: Causal Imitation Learning'
     url: https://www.youtube.com/watch?v=LcTXrxYc2fg
@@ -209,7 +209,7 @@ for Offline Reinforcement Learning'
     url: 
   - authors: Dylan Foster, Akshay Krishnamurthy, David Simchi-Levi, Yunzong Xu
     id: 42
-    kind: poster
+    kind: oral
     supplement: false
     title: 'Offline Reinforcement Learning: Fundamental Barriers for Value Function Approximation'
     url: 
