@@ -97,6 +97,12 @@
     supplement: false
     title: 'Personalization for Web-based Services using Offline Reinforcement Learning'
     url: 
+  - authors: Ilya Kostrikov, Ashvin Nair, Sergey Levine
+    id: 24
+    kind: poster
+    supplement: false
+    title: 'Offline Reinforcement Learning with Implicit Q-Learning'
+    url: 
   - authors: Chao-Han Huck Yang, Zhengling Qi, Yifang Cui, Pin-Yu Chen
     id: 25
     kind: poster
@@ -225,12 +231,6 @@ for Offline Reinforcement Learning'
     supplement: false
     title: 'Discriminator-Weighted Offline Imitation Learning from Suboptimal Demonstrations'
     url: https://recorder-v3.slideslive.com/?share=53264&s=79e721fe-5da9-4006-89a8-70b2ef8a4586
-  - authors: Sherry Yang, Bo Dai, Ofir Nachum, George Tucker, Dale Schuurmans
-    id: 45
-    kind: poster
-    supplement: false
-    title: 'Offline Policy Selection under Uncertainty'
-    url: 
   - authors: Xianyuan Zhan, Xiangyu Zhu, Haoran Xu
     id: 46
     kind: poster
