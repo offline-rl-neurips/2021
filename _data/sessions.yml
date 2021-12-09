@@ -31,6 +31,12 @@
     supplement: false
     title: 'PulseRL: Enabling Offline Reinforcement Learning for Digital Marketing Systems via Conservative Q-Learning'
     url: https://recorder-v3.slideslive.com/?share=55195&s=31ee83a3-6e6f-4c23-ae2d-512b7d08350f
+  - authors: Guy Tennenholtz, Nir Baram, Shie Mannor
+    id: 10
+    kind: poster
+    supplement: false
+    title: 'Latent Geodesics of Model Dynamics for Offline Reinforcement Learning'
+    url: https://recorder-v3.slideslive.com/?share=53070&s=508effdf-061b-4aa8-a220-acd8d9a7b855
   - authors: Xiaoxuan Zhang, Sijia Zhang, Yen-Yun Yu
     id: 11
     kind: poster
@@ -43,6 +49,12 @@
     supplement: false
     title: 'Understanding the Effects of Dataset Characteristics on Offline Reinforcement Learning'
     url: https://recorder-v3.slideslive.com/?share=54252&s=8437e42b-a0ea-4669-8760-972c96b75900
+  - authors: Anand Gopalakrishnan, Kazuki Irie, Juergen Schmidhuber, Sjoerd van Steenkiste
+    id: 13
+    kind: poster
+    supplement: false
+    title: 'Unsupervised Learning of Temporal Abstractions using Slot-based Transformers'
+    url: 
   - authors: Tim Pearce, Jun Zhu
     id: 14
     kind: poster
@@ -90,7 +102,7 @@
     kind: poster
     supplement: false
     title: 'Offline RL With Resource Constrained Online Deployment'
-    url: 
+    url: https://drive.google.com/file/d/1_es8DeaVv_TUNUorktgoplcEkMIU8O8p/view?usp=sharing
   - authors: Pavlos A. Apostolopoulos, Zehui Wang, Hanson Wang, Chad Zhou, Kittipat Virochsiri, Norm Zhou, Igor L. Markov
     id: 23
     kind: poster
@@ -103,12 +115,12 @@
     supplement: false
     title: 'Offline Reinforcement Learning with Implicit Q-Learning'
     url: 
-  - authors: Chao-Han Huck Yang, Zhengling Qi, Yifang Cui, Pin-Yu Chen
+  - authors: Chao-Han Huck Yang*, Zhengling Qi*, Yifang Cui, Pin-Yu Chen
     id: 25
     kind: poster
     supplement: false
     title: 'Pessimistic Model Selection for Offline Deep Reinforcement Learning'
-    url: 
+    url: https://youtu.be/n8QxqOIvP8k
   - authors: Ian Char*, Viraj Mehta*, Adam Villaflor, John M. Dolan, Jeff Schneider
     id: 26
     kind: poster
@@ -133,12 +145,6 @@
     supplement: false
     title: 'Improving Zero-shot Generalization in Offline Reinforcement Learning using Generalized Similarity Functions'
     url: https://youtu.be/MDWoAbK4G0g
-  - authors: Tony Z. Zhao*, Jianlan Luo*, Oleg Sushkov, Rugile Pevceviciute, Nicolas Heess, Jon Scholz, Stefan Schaal, Sergey Levine
-    id: 29
-    kind: poster
-    supplement: false
-    title: 'Offline Meta-Reinforcement Learning for Industrial Insertion'
-    url: 
   - authors: Yi Zhao, Rinu Boney, Alexander Ilin, Juho Kannala, Joni Pajarinen
     id: 30
     kind: poster
@@ -237,11 +243,17 @@ for Offline Reinforcement Learning'
     supplement: false
     title: 'Model-Based Offline Planning with Trajectory Pruning'
     url: https://drive.google.com/file/d/1n5l9pBNGj3780cUZ4zbjE_8OgroCdPoU/view?usp=sharing
-  - authors: Sherry Yang, Sergey Levine, Ofir Nachum
-    id: 47
+  - authors: Tony Z. Zhao*, Jianlan Luo*, Oleg Sushkov, Rugile Pevceviciute, Nicolas Heess, Jon Scholz, Stefan Schaal, Sergey Levine
+    id: 49
     kind: poster
     supplement: false
-    title: 'TRAIL: Near-Optimal Imitation Learning with Suboptimal Data'
+    title: 'Offline Meta-Reinforcement Learning for Industrial Insertion'
+    url: https://www.youtube.com/watch?v=ikaCqAozI_A
+  - authors: Junda Wu, Zhuihui Xie, Tong Yu, Qizhi Li, Shuai Li
+    id: 50
+    kind: poster
+    supplement: false
+    title: 'Sim-to-Real Interactive Recommendation via Off-Dynamics Reinforcement Learning'
     url: 
   - authors: Seyed Kamyar Seyed Ghasemipour, Shixiang (Shane) Gu, Ofir Nachum
     id: 51
@@ -254,4 +266,10 @@ for Offline Reinforcement Learning'
     kind: poster
     supplement: false
     title: 'Example-Based Offline Reinforcement Learning without Rewards'
+    url: 
+  - authors: Rafael Rafailov, Varun Kumar, Tianhe Yu, Avi Singh, Mariano Phielipp, Chelsea Finn
+    id: 54
+    kind: poster
+    supplement: false
+    title: 'The  Reflective  Explorer:  Online  Meta-Exploration  from  Offline  Data in Realistic Robotic Tasks'
     url: 
