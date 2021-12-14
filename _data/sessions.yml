@@ -230,7 +230,7 @@ for Offline Reinforcement Learning'
     kind: poster
     supplement: false
     title: 'Learning Value Functions from Undirected State-only Experience'
-    url: https://slideslive.com/38971128/learning-value-functions-from-undirected-stateonly-experience
+    url: https://www.youtube.com/watch?v=QIRHDla_oGM
   - authors: Haoran Xu, Xianyuan Zhan, Honglei Yin, Huiling Qin
     id: 44
     kind: poster
@@ -243,6 +243,12 @@ for Offline Reinforcement Learning'
     supplement: false
     title: 'Model-Based Offline Planning with Trajectory Pruning'
     url: https://drive.google.com/file/d/1n5l9pBNGj3780cUZ4zbjE_8OgroCdPoU/view?usp=sharing
+  - authors: Sherry Yang, Sergey Levine, Ofir Nachum
+    id: 47
+    kind: poster
+    supplement: false
+    title: 'TRAIL: Near-Optimal Imitation Learning with Suboptimal Data'
+    url: 
   - authors: Tony Z. Zhao*, Jianlan Luo*, Oleg Sushkov, Rugile Pevceviciute, Nicolas Heess, Jon Scholz, Stefan Schaal, Sergey Levine
     id: 49
     kind: poster
